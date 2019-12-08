@@ -1,4 +1,4 @@
-# Unofficial builds (RPM, SRPM) for Red Hat Enterprise Linux 8 (x86_64), and possibly Fedora and CentOS
+# Unofficial 64-bit builds (RPMs, SRPMs) for Red Hat Enterprise Linux, Fedora and CentOS
 
 ``NOTES``: The builds stored here comes with no warranty at all, these are personal builds 
            stripped down from most (non-essential) components (like headers, etc.)

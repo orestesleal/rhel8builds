@@ -8,3 +8,14 @@
     also the man pages (5) for this package to keep it small and simple so anybody can go
     ahead and start coding or just to satisfy a dependency.  I was not able to find the yasm 
     package as a ``RPM``, for that reason I made this build.
+
+    ``File list``:
+
+       yasm
+       vsyasm
+       ytasm
+       yasm.1
+       yasm_arch.7
+       yasm_dbgfmts.7
+       yasm_objfmts.7
+       yasm_parsers.7

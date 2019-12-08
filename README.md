@@ -9,13 +9,4 @@
     ahead and start coding or just to satisfy a dependency.  I was not able to find the yasm 
     package as a ``RPM``, for that reason I made this build.
 
-    ``File list``:
-
-       yasm
-       vsyasm
-       ytasm
-       yasm.1
-       yasm_arch.7
-       yasm_dbgfmts.7
-       yasm_objfmts.7
-       yasm_parsers.7
+    ``File list``: ``yasm vsyasm ytasm yasm.1 yasm_arch.7 yasm_dbgfmts.7 yasm_objfmts.7 yasm_parsers.7``

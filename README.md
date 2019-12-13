@@ -2,7 +2,8 @@
 
 ``NOTES``: The builds stored here comes with no warranty at all, these are personal builds 
            stripped down from most (non-essential) components (like development headers, etc.)
-           Use at your own risk. Go to the RPMS directory to the the rpm.
+           Use at your own risk. Go to the RPMS directory to the the rpm. To take a look at the spec
+           file used check ``SPECS/yasm.spec``
 
  1. ``YASM v1.3.0`` (https://yasm.tortall.net/) - ``RHEL-8.1-x86_64`` build. ``RPM``, ``SRPM``. I've included just the binaries for it (3) and
     also the man pages (5) for this package to keep it small and simple so anybody can go

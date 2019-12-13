@@ -5,7 +5,7 @@
            Use at your own risk. Go to the RPMS directory to the the rpm. To take a look at the spec
            file used check ``SPECS/yasm.spec``
 
- 1. ``YASM v1.3.0`` (https://yasm.tortall.net/) - ``RHEL-8.1-x86_64`` build. ``RPM``, ``SRPM``. I've included just the binaries for it (3) and
+ 1. ``YASM v1.3.0`` (source downloaded from https://yasm.tortall.net/) - ``RHEL-8.1-x86_64`` build. ``RPM``, ``SRPM``. I've included just the binaries for it (3) and
     also the man pages (5) for this package to keep it small and simple so anybody can go
     ahead and start coding or just to satisfy a dependency. See ``SPECS/yasm.spec`` for details of the packaging.
 
